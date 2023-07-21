@@ -1,0 +1,9 @@
+:root{
+    --cor-primaria-soft:hsl(215, 51%, 70%);
+    --cor-primaria-cyan:hsl(178, 100%, 50%);
+
+    --cor-neutra-forte: hsl(217, 54%, 11%);
+    --cor-neutra-media: hsl(216, 50%, 16%);
+    --cor-neutra-suave: hsl(215, 32%, 27%);
+    --cor-neutra-clara: hsl(0, 0%, 100%);
+}
